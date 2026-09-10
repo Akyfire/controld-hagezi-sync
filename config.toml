@@ -35,13 +35,15 @@ names = ["Normal"]
 # =============================================================================
 
 [folders]
-"Badware Hoster"         = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/badware-hoster-folder.json"
-"Most Abused TLDs"       = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-tlds-combined-folder.json"
-"No Safesearch Support"  = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/nosafesearch-folder.json"
-"Referral Allow" = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/referral-allow-folder.json"
-"META Tracker Allow"     = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/meta-tracker-allow-folder.json"
+"Apple Private Relay Allow" = "https://raw.github.com/hagezi/dns-blocklists/blob/main/controld/apple-private-relay-allow-folder.json"
+"Badware Hoster"         = "https://raw.github.com/hagezi/dns-blocklists/blob/main/controld/badware-hoster-folder.json"
+"Meta Tracker Allow"     = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/meta-tracker-allow-folder.json"
 "Microsoft Allow"        = "https://raw.github.com/hagezi/dns-blocklists/blob/main/controld/microsoft-allow-folder.json"
-"Native Tracker Amazon"  = "https://raw.github.com/hagezi/dns-blocklists/blob/main/controld/native-tracker-amazon-folder.json"
+"Native Amazon Tracker"  = "https://raw.github.com/hagezi/dns-blocklists/blob/main/controld/native-tracker-amazon-folder.json"
+"Native Apple Tracker" = "https://raw.github.com/hagezi/dns-blocklists/blob/main/controld/native-tracker-apple-folder.json"
+"Native Huawei Tracker" = "https://raw.github.com/hagezi/dns-blocklists/blob/main/controld/native-tracker-huawei-folder.json"
+"Native LG WebOS Tracker" = "https://raw.github.com/hagezi/dns-blocklists/blob/main/controld/native-tracker-lgwebos-folder.json"
+
 
 # =============================================================================
 # PROFILE → FOLDER MAPPINGS
@@ -51,4 +53,4 @@ names = ["Normal"]
 # =============================================================================
 
 [profile_folders]
-Normal   = ["Badware Hoster", "Most Abused TLDs", "Microsoft Allow", "Native Tracker Amazon"]
+Normal   = ["Badware Hoster", "Microsoft Allow", "Native Amazon Tracker", "Native Apple Tracker", "Native Huawei Tacker","Native LG WebOS Tracker"]
