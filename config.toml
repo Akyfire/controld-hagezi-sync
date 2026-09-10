@@ -25,7 +25,7 @@ dry_run = false
 
 [profiles]
 # Exact names of your ControlD profiles (case-sensitive).
-names = ["Normal"]
+names = ["Normal", "Pro"]
 
 # =============================================================================
 # FOLDER DEFINITIONS
@@ -54,3 +54,4 @@ names = ["Normal"]
 
 [profile_folders]
 Normal   = ["Badware Hoster", "Microsoft Allow", "Native Amazon Tracker", "Native Apple Tracker", "Native Huawei Tracker","Native LG WebOS Tracker"]
+Pro      = ["Badware Hoster", "Microsoft Allow", "Native Amazon Tracker", "Native Apple Tracker", "Native Huawei Tracker","Native LG WebOS Tracker"]
