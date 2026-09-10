@@ -53,6 +53,12 @@ names = ["Normal", "Pro"]
 "Native Xiaomi Tracker" = "https://raw.github.com/hagezi/dns-blocklists/blob/main/controld/native-tracker-xiaomi-folder.json"
 "No Safe Search" = "https://raw.github.com/hagezi/dns-blocklists/blob/main/controld/nosafesearch-folder.json"
 "Referral Allow" = "https://raw.github.com/hagezi/dns-blocklists/blob/main/controld/referral-allow-folder.json"
+"Spam IDNS" = "https://raw.github.com/hagezi/dns-blocklists/blob/main/controld/spam-idns-folder.json"
+"Spam TLDs Allow" = "https://raw.github.com/hagezi/dns-blocklists/blob/main/controld/spam-tlds-allow-folder.json"
+"Spam TLDs" = "https://raw.github.com/hagezi/dns-blocklists/blob/main/controld/spam-tlds-folder.json"
+"Spam TLDs Combined" = "https://raw.github.com/hagezi/dns-blocklists/blob/main/controld/spam-tlds-combined-folder.json"
+"Spam TLDs Light" = "https://raw.github.com/hagezi/dns-blocklists/blob/main/controld/spam-tlds-light-folder.json"
+"Ultimate Known Issues" = "https://raw.github.com/hagezi/dns-blocklists/blob/main/controld/ultimate-known_issues-allow-folder.json"
 
 # =============================================================================
 # PROFILE → FOLDER MAPPINGS
