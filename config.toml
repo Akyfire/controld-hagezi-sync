@@ -47,7 +47,10 @@ names = ["Normal", "Pro"]
 "Native Oppo Realme Tracker" = "https://github.com/hagezi/dns-blocklists/blob/main/controld/native-tracker-oppo-realme-folder.json"
 "Native Roku Tracker" = "https://raw.github.com/hagezi/dns-blocklists/blob/main/controld/native-tracker-roku-folder.json"
 "Native Samsung Tracker" = "https://raw.github.com/hagezi/dns-blocklists/blob/main/controld/native-tracker-samsung-folder.json"
-
+"Native Tiktok Tracker" = "https://raw.github.com/hagezi/dns-blocklists/blob/main/controld/native-tracker-tiktok-folder.json"
+"Native Tiktok Aggressive Tracker" = "https://raw.github.com/hagezi/dns-blocklists/blob/main/controld/native-tracker-tiktok-aggressive-folder.json"
+"Native Vivo Tracker" = "https://raw.github.com/hagezi/dns-blocklists/blob/main/controld/native-tracker-vivo-folder.json"
+"Native Xiaomi Tracker" = "https://raw.github.com/hagezi/dns-blocklists/blob/main/controld/native-tracker-xiaomi-folder.json"
 
 # =============================================================================
 # PROFILE → FOLDER MAPPINGS
