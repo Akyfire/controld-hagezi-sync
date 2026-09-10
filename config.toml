@@ -53,4 +53,4 @@ names = ["Normal"]
 # =============================================================================
 
 [profile_folders]
-Normal   = ["Badware Hoster", "Microsoft Allow", "Native Amazon Tracker", "Native Apple Tracker", "Native Huawei Tacker","Native LG WebOS Tracker"]
+Normal   = ["Badware Hoster", "Microsoft Allow", "Native Amazon Tracker", "Native Apple Tracker", "Native Huawei Tracker","Native LG WebOS Tracker"]
