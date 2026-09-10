@@ -59,6 +59,8 @@ names = ["Normal", "Pro"]
 "Spam TLDs Combined" = "https://raw.github.com/hagezi/dns-blocklists/blob/main/controld/spam-tlds-combined-folder.json"
 "Spam TLDs Light" = "https://raw.github.com/hagezi/dns-blocklists/blob/main/controld/spam-tlds-light-folder.json"
 "Ultimate Known Issues" = "https://raw.github.com/hagezi/dns-blocklists/blob/main/controld/ultimate-known_issues-allow-folder.json"
+"Control D Bypass" = "https://raw.github.com/Akyfire/Control-D-Lists/blob/main/Control-D-Bypass.json"
+"Control D Blocked" = "https://raw.github.com/Akyfire/Control-D-Lists/blob/main/Control-D-Blocked.json"
 
 # =============================================================================
 # PROFILE → FOLDER MAPPINGS
@@ -68,7 +70,7 @@ names = ["Normal", "Pro"]
 # =============================================================================
 
 [profile_folders]
-Normal   = ["Badware Hoster", "Microsoft Allow", "Native Amazon Tracker", "Native Apple Tracker", "Native Huawei Tracker","Native LG WebOS Tracker", 
+Normal   = ["Badware Hoster", "Control D Bypass", "Control D Blocked", "Microsoft Allow", "Native Amazon Tracker", "Native Apple Tracker", "Native Huawei Tracker","Native LG WebOS Tracker", 
             "Native Microsoft Tracker", "Native Oppo Realme Tracker", "Native Roku Tracker", "Native Samsung Tracker", "Native Tiktok Tracker", "Native Vivo Tracker",
             "Native Xiaomi Tracker"]
 Pro      = ["Badware Hoster", "Microsoft Allow", "Native Amazon Tracker", "Native Apple Tracker", "Native Huawei Tracker","Native LG WebOS Tracker", 
