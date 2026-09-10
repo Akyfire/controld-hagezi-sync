@@ -40,7 +40,8 @@ names = ["Normal"]
 "No Safesearch Support"  = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/nosafesearch-folder.json"
 "Referral Allow" = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/referral-allow-folder.json"
 "META Tracker Allow"     = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/meta-tracker-allow-folder.json"
-"Microsoft Allow" = "https://github.com/hagezi/dns-blocklists/blob/main/controld/microsoft-allow-folder.json"
+"Microsoft Allow"        = "https://raw.github.com/hagezi/dns-blocklists/blob/main/controld/microsoft-allow-folder.json"
+"Native Tracker Amazon"  = "https://raw.github.com/hagezi/dns-blocklists/blob/main/controld/native-tracker-amazon-folder.json"
 
 # =============================================================================
 # PROFILE → FOLDER MAPPINGS
@@ -50,4 +51,4 @@ names = ["Normal"]
 # =============================================================================
 
 [profile_folders]
-Normal   = ["Badware Hoster", "Most Abused TLDs","Microsoft Allow"]
+Normal   = ["Badware Hoster", "Most Abused TLDs", "Microsoft Allow", "Native Tracker Amazon"]
