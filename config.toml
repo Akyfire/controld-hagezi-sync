@@ -43,6 +43,10 @@ names = ["Normal", "Pro"]
 "Native Apple Tracker" = "https://raw.github.com/hagezi/dns-blocklists/blob/main/controld/native-tracker-apple-folder.json"
 "Native Huawei Tracker" = "https://raw.github.com/hagezi/dns-blocklists/blob/main/controld/native-tracker-huawei-folder.json"
 "Native LG WebOS Tracker" = "https://raw.github.com/hagezi/dns-blocklists/blob/main/controld/native-tracker-lgwebos-folder.json"
+"Native Microsoft Tracker" = "https://raw.github.com/hagezi/dns-blocklists/blob/main/controld/native-tracker-microsoft-folder.json"
+"Native Oppo Realme Tracker" = "https://github.com/hagezi/dns-blocklists/blob/main/controld/native-tracker-oppo-realme-folder.json"
+"Native Roku Tracker" = "https://raw.github.com/hagezi/dns-blocklists/blob/main/controld/native-tracker-roku-folder.json"
+"Native Samsung Tracker" = "https://raw.github.com/hagezi/dns-blocklists/blob/main/controld/native-tracker-samsung-folder.json"
 
 
 # =============================================================================
