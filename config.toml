@@ -68,7 +68,9 @@ names = ["Kids", "Light", "Normal", "Pro"]
 # =============================================================================
 
 [profile_folders]
-Kids     = []
+Kids     = ["Badware Hoster", "Microsoft Allow", "Native Amazon Tracker", "Native Apple Tracker", "Native Huawei Tracker","Native LG WebOS Tracker", 
+            "Native Microsoft Tracker", "Native Oppo Realme Tracker", "Native Roku Tracker", "Native Samsung Tracker", "Native Tiktok Tracker", "Native Vivo Tracker",
+            "Native Xiaomi Tracker", "No Safe Search", "Referral Allow", "Spam IDNS", "Spam TLDs", "Spam TLDs Light", "Spam TLDs Allow"]
 Light    = ["Badware Hoster", "Microsoft Allow", "Native Amazon Tracker", "Native Apple Tracker", "Native Huawei Tracker","Native LG WebOS Tracker", 
             "Native Microsoft Tracker", "Native Oppo Realme Tracker", "Native Roku Tracker", "Native Samsung Tracker", "Native Tiktok Tracker", "Native Vivo Tracker",
             "Native Xiaomi Tracker", "Referral Allow", "Spam IDNS", "Spam TLDs", "Spam TLDs Light", "Spam TLDs Allow"]
