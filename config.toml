@@ -79,4 +79,4 @@ Normal   = ["Badware Hoster", "Microsoft Allow", "Native Amazon Tracker", "Nativ
             "Native Xiaomi Tracker", "Referral Allow", "Spam IDNS", "Spam TLDs", "Spam TLDs Light", "Spam TLDs Allow"]
 Pro      = ["Badware Hoster", "Microsoft Allow", "Native Amazon Tracker", "Native Apple Tracker", "Native Huawei Tracker","Native LG WebOS Tracker", 
             "Native Microsoft Tracker", "Native Oppo Realme Tracker", "Native Roku Tracker", "Native Samsung Tracker", "Native Tiktok Aggressive Tracker", "Native Vivo Tracker",
-            "Native Xiaomi Tracker", "Referral Allow", "Spam IDNS", "Spam TLDs", "Spam TLDs Allow", "Spam TLDs Light", "Ultimate Known Issues"]
+            "Native Xiaomi Tracker", "Referral Allow", "Spam IDNS", "Spam TLDs", "Spam TLDs Allow", "Spam TLDs Light"]
