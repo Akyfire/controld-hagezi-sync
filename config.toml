@@ -25,7 +25,7 @@ dry_run = false
 
 [profiles]
 # Exact names of your ControlD profiles (case-sensitive).
-names = ["Kids", "Light", "Normal", "Pro"]
+names = ["Kids", "Light", "Normal", "Pro", "Ultimate"]
 
 # =============================================================================
 # FOLDER DEFINITIONS
@@ -80,3 +80,7 @@ Normal   = ["Badware Hoster", "Microsoft Allow", "Native Amazon Tracker", "Nativ
 Pro      = ["Badware Hoster", "Microsoft Allow", "Native Amazon Tracker", "Native Apple Tracker", "Native Huawei Tracker","Native LG WebOS Tracker", 
             "Native Microsoft Tracker", "Native Oppo Realme Tracker", "Native Roku Tracker", "Native Samsung Tracker", "Native Tiktok Aggressive Tracker", "Native Vivo Tracker",
             "Native Xiaomi Tracker", "Referral Allow", "Spam IDNS", "Spam TLDs", "Spam TLDs Allow", "Spam TLDs Light"]
+Ultimate      = ["Badware Hoster", "Microsoft Allow", "Native Amazon Tracker", "Native Apple Tracker", "Native Huawei Tracker","Native LG WebOS Tracker", 
+            "Native Microsoft Tracker", "Native Oppo Realme Tracker", "Native Roku Tracker", "Native Samsung Tracker", "Native Tiktok Aggressive Tracker", "Native Vivo Tracker",
+            "Native Xiaomi Tracker", "Referral Allow", "Spam IDNS", "Spam TLDs", "Spam TLDs Allow", "Spam TLDs Light"]
+
